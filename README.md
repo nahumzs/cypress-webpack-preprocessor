@@ -16,7 +16,7 @@ This plugin (and all Cypress plugins) run in Cypress's own version of Node. If y
 
 ## Usage
 
-In your project's [plugins file](https://on.cypress.io/guides/guides/plugins.html):
+In your project's [plugins file](https://docs.cypress.io/plugins/index.html#content):
 
 ```javascript
 const webpack = require('@cypress/webpack-preprocessor')
